@@ -1,7 +1,13 @@
 body {
     background-color: black;
     color: white;
-    
+    font-family: "Abel", sans-serif;
+}
+#container {
+    display: flex;
+}
+.cartao {
+    margin: 1rem 1rem;
 }
 footer {
     background-color: white;
